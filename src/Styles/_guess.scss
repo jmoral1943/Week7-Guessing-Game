@@ -1,0 +1,15 @@
+.Guess {
+  display: flex;
+  margin-top: 50px;
+}
+
+.Guess input {
+  width: 200px;
+  height: 1rem;
+}
+
+.ScoreBoard {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
